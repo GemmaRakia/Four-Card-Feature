@@ -36,11 +36,11 @@ header {
 }
 
 #supervisor {
-    margin-bottom: -105px;
+    margin-bottom: -125px;
     border-top: thick solid hsl(180, 62%, 55%);
 }
 #calculator {
-    margin-bottom: -105px;
+    margin-bottom: -125px;
     border-top: thick solid hsl(212, 86%, 64%);
 }
 #builder {
