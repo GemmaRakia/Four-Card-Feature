@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;600&display=swap');
+
+body {
+    box-sizing: border-box;
+    background-color: rgb(253, 253, 253);
+    font-family: 'Poppins', sans-serif;
+}
+
+.card-container {
+    background-color: white;
+    width: 18%;
+    border-radius: 6px;
+    margin: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    box-shadow: 4px 7px 20px rgba(43, 43, 43, 0.178);
+}
+
+.container {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+header {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 70px;
+    padding-left: 500px;
+    padding-right: 500px;
+}
+
+.lite {
+    font-weight: 200;
+}
+
+#supervisor {
+    margin-bottom: -95px;
+    border-top: thick solid hsl(180, 62%, 55%);
+}
+#calculator {
+    margin-bottom: -95px;
+    border-top: thick solid hsl(212, 86%, 64%);
+}
+#builder {
+    border-top: thick solid hsl(0, 78%, 62%);
+}
+#karma {
+    margin-left: 40%;
+    border-top: thick solid hsl(34, 97%, 64%) ;
+}
+
+.image {
+    width: 15%;
+    margin-bottom: 20px;
+    margin-left: 85%;
+}
+p {
+    margin-bottom: 30px;
+    font-weight: 200;
+    font-size: 0.8rem;
+    color: rgb(104, 102, 102);
+}
+h4 {
+    margin-top: 20px;
+    color: rgb(83, 83, 83);
+}
+
+h1 {
+    line-height: 1.4rem;
+    color: rgb(71, 70, 70);
+}
